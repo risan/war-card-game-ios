@@ -8,3 +8,7 @@ A War Card Game for iOS based on the amazing tutorial by [Chris Ching](https://c
 4. [Writing the Logic](https://codewithchris.com/lesson10)
 
 ![War Card Game in Action](https://media.giphy.com/media/3oqoBNGeV4PEbCcQcP/giphy.gif)
+
+## License
+
+MIT © [Risan Bagja Pradana](https://bagja.net)
